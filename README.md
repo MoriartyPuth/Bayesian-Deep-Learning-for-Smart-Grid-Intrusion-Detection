@@ -42,4 +42,23 @@ This ensures the model is penalized for overconfidence, a critical safety featur
   
 <img width="1156" height="548" alt="image" src="https://github.com/user-attachments/assets/d0fd423d-9934-4973-8484-c20a13ec8948" />
 
+## Installation & Usage
+🚀 Getting Started
+
+Prerequisites
+
+To run the notebook locally, ensure you have the following installed:
+
+- pip install tensorflow tensorflow-probability matplotlib pandas scikit-learn
+
+Environment Compatibility Note:
+- This notebook is configured to handle Keras 3 and TensorFlow 2.15+ environments by forcing the legacy Keras backend to ensure compatibility with tensorflow-probability layers.
+
+How to use the Notebook
+
+- Clone the repo: git clone https://github.com/MoriartyPuth/Bayesian-Deep-Learning-for-Smart-Grid-Intrusion-Detection
+
+- Open the file: Launch Jupyter or VS Code and open BayesianDL.ipynb.
+
+- Run All: The notebook is self-contained and will generate its own synthetic dataset if no external CSV is provided.
 
