@@ -1,4 +1,4 @@
-# Bayesian-Deep-Learning-for-Smart-Grid-Intrusion-Detection
+# Topci: A Bayesian Deep Learning Approach With Convolutional Feature Engineering to Discriminate Cyber-Physical Intrusions in Smart Grid Systems
 📌 Project Overview
 This project implements a Bayesian Convolutional Neural Network (B-CNN) designed to detect and discriminate cyber-physical intrusions within smart grid systems. Unlike traditional "black-box" AI, this approach utilizes Variational Inference to quantify predictive uncertainty.
 
